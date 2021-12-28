@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Sports Illustrated" },
+      "author": "Rohan Nadkarni",
+      "title": "NBA Christmas Day Takeaways: Giannis States MVP Case, Lakers Frustrate (Again) - Sports Illustrated",
+      "description": "Julius Randle woke up, Golden State showcased its tremendous depth and the Lakers suffered another frustrating loss on an eventful holiday slate.",
+      "url": "https://www.si.com/nba/2021/12/26/nba-christmas-day-takeaways-giannis-mvp-warriors-depth-lakers-frustrate",
+      "urlToImage": "https://www.si.com/.image/t_share/MTg2MjQ0MTAwODM4NjYzODc1/lakers-claxton.jpg",
+      "publishedAt": "2021-12-26T06:08:52Z",
+      "content": "A few thoughts on some of the Christmas games in the NBA…\r\nKnicks 101, Hawks 87\r\nThis game was largely a snoozer, having lost most of its luster once Trae Young entered the health and safety protocol… [+6928 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NBCSports.com" },
+      "author": null,
+      "title": "Warriors' depth highlighted in Warriors' big Christmas win - NBC Sports Bay Area",
+      "description": "Down five players and four coaches, the Warriors got their best win of the season on Christmas Day against the Suns.",
+      "url": "https://www.nbcsports.com/bayarea/warriors/warriors-christmas-day-win-over-suns-highlights-incredible-depth",
+      "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/Otto-Porter-Warriors-Suns-USATSI-17410577.jpg",
+      "publishedAt": "2021-12-26T03:40:20Z",
+      "content": "PHOENIX -- Steph Curry couldn't help but flash a sly smirk when he was asked if the Warriors' 116-107 win over the Phoenix Suns was their best win of the season. \r\nHe looked down and collected himsel… [+3998 chars]"
+    }
+  ]
+}
